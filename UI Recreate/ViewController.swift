@@ -42,7 +42,7 @@ class ViewController: UIViewController {
     
     @IBAction func greenButton1(_ sender: UIButton) {
         mera.image = #imageLiteral(resourceName: "Char1Green")
-        leftName.text = "Hijo"
+        leftName.text = "Hejo"
     }
     
     @IBAction func redButton2(_ sender: UIButton) {
