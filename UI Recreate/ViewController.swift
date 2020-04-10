@@ -66,7 +66,7 @@ class ViewController: UIViewController {
     // test fei
     
     @IBAction func fightButton(_ sender: UIButton) {
-        leftScore = leftScore + 2
+        leftScore = leftScore + 3
         print(leftScore)
         scoreMera.text = "\(leftScore)"
     }
