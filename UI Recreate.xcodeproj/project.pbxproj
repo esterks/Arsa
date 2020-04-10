@@ -13,6 +13,7 @@
 		3E2A605E240F45FC0087BD92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E2A605C240F45FC0087BD92 /* Main.storyboard */; };
 		3E2A6060240F45FD0087BD92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E2A605F240F45FD0087BD92 /* Assets.xcassets */; };
 		3E2A6063240F45FD0087BD92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E2A6061240F45FD0087BD92 /* LaunchScreen.storyboard */; };
+		3EABBE3324408E4300466AA5 /* cobatambahstoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EABBE3224408E4300466AA5 /* cobatambahstoryboard.storyboard */; };
 		CAF54BBF24408C10009836A6 /* isengiseng.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF54BBE24408C10009836A6 /* isengiseng.swift */; };
 		E62DED1624408AF50034D701 /* NewFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = E62DED1524408AF50034D701 /* NewFile.swift */; };
 /* End PBXBuildFile section */
@@ -26,6 +27,7 @@
 		3E2A605F240F45FD0087BD92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E2A6062240F45FD0087BD92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3E2A6064240F45FD0087BD92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3EABBE3224408E4300466AA5 /* cobatambahstoryboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = cobatambahstoryboard.storyboard; sourceTree = "<group>"; };
 		CAF54BBE24408C10009836A6 /* isengiseng.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = isengiseng.swift; sourceTree = "<group>"; };
 		E62DED1524408AF50034D701 /* NewFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -64,6 +66,7 @@
 				3E2A6058240F45FC0087BD92 /* SceneDelegate.swift */,
 				3E2A605A240F45FC0087BD92 /* ViewController.swift */,
 				E62DED1524408AF50034D701 /* NewFile.swift */,
+				3EABBE3224408E4300466AA5 /* cobatambahstoryboard.storyboard */,
 				CAF54BBE24408C10009836A6 /* isengiseng.swift */,
 				3E2A605C240F45FC0087BD92 /* Main.storyboard */,
 				3E2A605F240F45FD0087BD92 /* Assets.xcassets */,
@@ -132,6 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3E2A6063240F45FD0087BD92 /* LaunchScreen.storyboard in Resources */,
+				3EABBE3324408E4300466AA5 /* cobatambahstoryboard.storyboard in Resources */,
 				3E2A6060240F45FD0087BD92 /* Assets.xcassets in Resources */,
 				3E2A605E240F45FC0087BD92 /* Main.storyboard in Resources */,
 			);
