@@ -56,6 +56,7 @@ class ViewController: UIViewController {
         rightName.text = "Slem"
     }
     
+    // test fei
     
     @IBAction func fightButton(_ sender: UIButton) {
         leftScore = leftScore + 1
