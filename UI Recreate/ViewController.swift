@@ -51,6 +51,7 @@ class ViewController: UIViewController {
     @IBAction func yellowButton2(_ sender: UIButton) {
         slem.image = #imageLiteral(resourceName: "Char2Yellow")
         rightName.text = "Yell"
+        //cobaKedua
     }
     
     @IBAction func greenButton2(_ sender: UIButton) {
