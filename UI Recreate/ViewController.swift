@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // test fei 2
+    
     @IBOutlet weak var mera: UIImageView!
     @IBOutlet weak var slem: UIImageView!
     @IBOutlet weak var scoreMera: UILabel!
@@ -65,6 +67,6 @@ class ViewController: UIViewController {
         scoreMera.text = "\(leftScore)"
     }
     // test
-    
+    // numpang lewat yaa hehehe
 }
-
+  
