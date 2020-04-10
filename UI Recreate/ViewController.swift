@@ -63,7 +63,7 @@ class ViewController: UIViewController {
         print(leftScore)
         scoreMera.text = "\(leftScore)"
     }
-
+    // test
     
 }
 
