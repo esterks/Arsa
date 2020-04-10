@@ -63,6 +63,6 @@ class ViewController: UIViewController {
         scoreMera.text = "\(leftScore)"
     }
     // test
-    
+    // numpang lewat yaa hehehe
 }
-
+  
