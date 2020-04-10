@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var leftName: UILabel!
     @IBOutlet weak var rightName: UILabel!
     var leftScore = 0
-    
+    //test
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -32,7 +32,7 @@ class ViewController: UIViewController {
         mera.image = #imageLiteral(resourceName: "Char1Yellow")
         leftName.text = "Kinu"
     }
-    
+    //test
     @IBAction func redButton1(_ sender: UIButton) {
         mera.image = UIImage(named: "Char1Red.jpg")
         leftName.text = "Mera"
@@ -68,6 +68,7 @@ class ViewController: UIViewController {
         scoreMera.text = "\(leftScore)"
     }
     // test
+    // test satu lagi
     // numpang lewat yaa hehehe
 }
   
