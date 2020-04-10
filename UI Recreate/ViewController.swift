@@ -32,7 +32,9 @@ class ViewController: UIViewController {
         mera.image = #imageLiteral(resourceName: "Char1Yellow")
         leftName.text = "Kinu"
     }
+
     //test
+
     @IBAction func redButton1(_ sender: UIButton) {
         mera.image = UIImage(named: "Char1Red.jpg")
         leftName.text = "Mera"
@@ -51,6 +53,7 @@ class ViewController: UIViewController {
     @IBAction func yellowButton2(_ sender: UIButton) {
         slem.image = #imageLiteral(resourceName: "Char2Yellow")
         rightName.text = "Yell"
+        //cobaKedua
     }
     
     @IBAction func greenButton2(_ sender: UIButton) {
@@ -62,11 +65,14 @@ class ViewController: UIViewController {
     // test fei
     
     @IBAction func fightButton(_ sender: UIButton) {
-        leftScore = leftScore + 1
+        leftScore = leftScore + 2
         print(leftScore)
         scoreMera.text = "\(leftScore)"
     }
     // test
+    // test satu lagi
     // numpang lewat yaa hehehe
+    // yey
+    
 }
   
