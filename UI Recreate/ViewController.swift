@@ -56,6 +56,7 @@ class ViewController: UIViewController {
     @IBAction func greenButton2(_ sender: UIButton) {
         slem.image = #imageLiteral(resourceName: "Char2Green")
         rightName.text = "Slem"
+        //test zhaf
     }
     
     // test fei
