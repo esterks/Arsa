@@ -32,6 +32,7 @@ class ViewController: UIViewController {
         mera.image = #imageLiteral(resourceName: "Char1Yellow")
         leftName.text = "Kinu"
     }
+    // test lagi dan lagi
     
     @IBAction func redButton1(_ sender: UIButton) {
         mera.image = UIImage(named: "Char1Red.jpg")
