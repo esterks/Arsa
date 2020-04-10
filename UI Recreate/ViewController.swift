@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // test fei 2
+    
     @IBOutlet weak var mera: UIImageView!
     @IBOutlet weak var slem: UIImageView!
     @IBOutlet weak var scoreMera: UILabel!
@@ -56,13 +58,14 @@ class ViewController: UIViewController {
         rightName.text = "Slem"
     }
     
+    // test fei
     
     @IBAction func fightButton(_ sender: UIButton) {
         leftScore = leftScore + 1
         print(leftScore)
         scoreMera.text = "\(leftScore)"
     }
-
-    
+    // test
+    // numpang lewat yaa hehehe
 }
-
+  
